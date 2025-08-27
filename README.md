@@ -117,6 +117,6 @@ VoiceAssistant
 
 ## Author
 
-**Debojeet**
-AI Enthusiast | Python Developer | Tech Explorer
+**Debojeet Adhikari**
+| AI Enthusiast | Python Developer | Tech Explorer
 
