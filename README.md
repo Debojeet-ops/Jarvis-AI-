@@ -63,7 +63,7 @@ VoiceAssistant
 
 1. **Clone this repository**
 
-   git clone https://github.com/your-username/voice-assistant.git
+   git clone https://github.com/Debojeet-ops/voice-assistant.git
    cd voice-assistant
 
 2. **Install dependencies**
